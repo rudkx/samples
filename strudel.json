@@ -1,5 +1,6 @@
 {
     "_base": "https://raw.githubusercontent.com/rudkx/samples/main/",
     "clap": "stereo_clap.wav",
-    "shaker": "shaker.wav"
+    "shaker": "shaker.wav",
+    "cloop": "C power chord I-II-V-IV I-II-V-IV II-V-IV pad 110bpm 16 bars.flac",
 }
